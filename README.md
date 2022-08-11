@@ -1,6 +1,6 @@
 # Проект YaMDb 
 
-![CI](https://github.com/Maratagliullin/yamdb_final/actions/workflows/yamdb_workflow.yaml/badge.svg?access_token=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)(<LINK>) 
+![CI](https://github.com/Maratagliullin/yamdb_final/actions/workflows/yamdb_workflow.yaml/badge.svg?access_token=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)
 
 Проект расположен по адресу http://yandexpracticum.hopto.org/
 
