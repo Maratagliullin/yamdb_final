@@ -11,6 +11,7 @@ services:
     image: maratagliullin/yamdb:latest
     restart: always
     volumes:
+      - ./redoc.yaml:/app/static/redoc.yaml
       - static_value:/app/static/
       - media_value:/app/media/ 
     depends_on:
